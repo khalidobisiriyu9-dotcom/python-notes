@@ -1,2 +1,2 @@
 # python-notes
-My first Python code and learning notes. 
+My first Python code and learning notes.
